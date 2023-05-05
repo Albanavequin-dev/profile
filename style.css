@@ -1,0 +1,106 @@
+
+body {
+background: #0A4D68;
+color: #F6F1F1;
+font-weight: lighter;
+background-image: url("images/surf.jpeg");
+text-align: center;
+
+/* margin-left: 100px;
+margin-right: -100px;
+margin-top: 100px;
+margin-bottom: -100px; */
+/* background: #0A4D68; */
+}
+
+h1 {
+  /* background: #0A4D68; */
+  color: #0081C9;
+  font-family: 'Noto Serif', serif;
+  font-size: 80px;
+  text-align: center;
+  text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+/* p.text-center */
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Noto Serif', serif;
+  color: #FFC93C;
+  text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+h3{
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Noto Serif', serif;
+  color: #FFC93C;
+  text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+
+}
+
+a{
+  text-decoration: none;
+  color: #0A4D68;
+}
+
+p{
+  color: #0A4D68;
+}
+
+
+.titre{
+  text-align: center;
+}
+
+.round-img {
+  /* display: block; */
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #F7F1E5;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  object-position: bottom;
+  margin: 0 auto;
+}
+
+.p1{
+  text-align: center;
+  color: #F7F1E5;
+/* box-shadow: 2px 2px 3px black; */
+  width: 400px;
+  height: 300px;
+  margin: 50px auto;
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border: 1px solid #F7F7F7;
+  border-radius: 30px;
+  color: #20262E;
+
+
+}
+
+.p2{
+  text-align: center;
+  width: 400px;
+  height: 200px;
+  margin: 50px auto;
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border: 1px solid #F7F7F7;
+  border-radius: 30px;
+  color: #20262E;
+  text-decoration: none;
+}
+
+.iconInsta{
+  margin: 20px auto;
+}
+
+.iconStrava{
+  margin: 20px auto;
+}
